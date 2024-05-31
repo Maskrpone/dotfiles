@@ -8,10 +8,6 @@ red = "#fc7b81"
 white = "#fafdff"
 yellow = "#ffeba6"
 
-[colors.cursor]
-cursor = "#f5f5f5"
-text = "CellForeground"
-
 [colors.normal]
 black = "#1c252c"
 blue = "#70a5eb"
@@ -23,5 +19,9 @@ white = "#dee1e6"
 yellow = "#f1cf8a"
 
 [colors.primary]
-background = "#000000"
+background = "#101419"
 foreground = "#b6beca"
+
+[colors.cursor]
+cursor = "#f5f5f5"
+text = "CellForeground"
