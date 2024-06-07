@@ -1,0 +1,20 @@
+* {
+  font: "MesloLGSDZ Nerd Font Mono 14";
+  background: #1c252c;
+  background-alt: #384148;
+}
+
+configuration {
+    show-icons: true;
+}
+
+window {
+  location: center;
+  anchor: center;
+  border: 0px solid;
+  border-radius: 15px;
+  cursor: "default";
+background-color: @background;
+}
+
+
